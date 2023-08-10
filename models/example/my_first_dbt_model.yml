@@ -1,0 +1,4 @@
+models:
+  # This is a public model -- it's a stable & mature interface for other teams/projects
+  - name: my_first_dbt_model
+    access: private      
