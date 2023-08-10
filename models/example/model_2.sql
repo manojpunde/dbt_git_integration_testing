@@ -1,2 +1,2 @@
-/*2*/
+/*2_1*/
 select * from department
